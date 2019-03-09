@@ -8,7 +8,7 @@
   <groupId>io.vertx</groupId>
   <artifactId>maven-simplest</artifactId>
   <version>3.6.2</version>
-
+  <packaging>war</packaging>
   <properties>
     <!-- the main class -->
     <exec.mainClass>io.vertx.example.HelloWorldEmbedded</exec.mainClass>
